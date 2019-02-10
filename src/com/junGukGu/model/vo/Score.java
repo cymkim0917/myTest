@@ -4,6 +4,6 @@ public class Score {
 
 	public void test() {
 		System.out.println("test");
-		System.out.println("파워차지");
+    System.out.println("change from git")
 	}
 }
