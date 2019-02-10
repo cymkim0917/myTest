@@ -4,5 +4,6 @@ public class Score {
 
 	public void test() {
 		System.out.println("test");
+		System.out.println("Ã¼ÀÎÁö");
 	}
 }
